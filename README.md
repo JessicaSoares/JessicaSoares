@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: jéssica Silva Soares](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194)](https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194/)
+[![Linkedin: jéssica Silva Soares](https://img.shields.io/badge/-Jéssica Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194)](https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicassoarez@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicassoarez@gmail.com)](mailto:jessicassoarez@gmail.com)
 [![GitHub JessicaSoares]( https://img.shields.io/github/followers/VanessaSwerts?label=JessicaSoares&style=social)](https://github.com/JessicaSoares)
