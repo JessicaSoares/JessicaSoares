@@ -5,12 +5,12 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formada em **ENGENHARIA DA COMPUTAÇÃO** no <a href="link da sua faculdade">Universidade Federal do Sul e Sudeste do Pará</a>.
-- 💼 &nbsp; Trabalhando como **DESENVOLVIMENTO FULL STACK** na <a href="LINK DA EMPRESA">Prefeitura Municipal de Parauapebas</a>
+- 💼 &nbsp; Trabalhando como **DESENVOLVIMENTO FRONT END** na <a href="LINK DA EMPRESA">Petrobras</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Desenvolvimento web javascpript e python / Data science**
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
