@@ -14,10 +14,11 @@ In projects for **Petrobras through FEC**, I worked on React/TypeScript interfac
 
 | Project | What to explore | Stack |
 |---|---|---|
+| [AI Evidence Lab](https://github.com/JessicaSoares/ai-evidence-lab) | Synthetic-document retrieval, semantic embeddings, bounded role workflow, citation checks and MCP tools | Python, LangGraph, Qdrant, FastAPI, MCP |
 | [Dev Master](https://github.com/JessicaSoares/dev-master) | Career dashboard, API connectors, deduplication, reviewed queues and failure-handling tests | JavaScript, Node.js, localStorage, GitHub Actions |
 | [Data Reconciliation Lab](https://github.com/JessicaSoares/data-reconciliation-lab) | Record-level CSV comparison, exact monetary values, data-quality findings and deterministic reports | Python, Decimal, unittest, Docker, GitHub Actions |
 
-Both are personal portfolio projects developed with AI assistance. Their READMEs include runnable examples, architecture decisions, tests and current limitations. Client code and private datasets are not included.
+These are personal portfolio projects developed with AI assistance. Their READMEs include runnable examples, architecture decisions, tests and current limitations. Client code and private datasets are not included.
 
 **Earlier learning work:** [Next.js App Router + MUI starter](https://github.com/JessicaSoares/Next13-mui), with a code tour and explicit template attribution. Historical study project, separate from professional production experience.
 
