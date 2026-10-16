@@ -19,6 +19,8 @@ In projects for **Petrobras through FEC**, I worked on React/TypeScript interfac
 
 Both are personal portfolio projects developed with AI assistance. Their READMEs include runnable examples, architecture decisions, tests and current limitations. Client code and private datasets are not included.
 
+**Earlier learning work:** [Next.js App Router + MUI starter](https://github.com/JessicaSoares/Next13-mui), with a code tour and explicit template attribution. Historical study project, separate from professional production experience.
+
 ## Experience and technical focus
 
 - **Frontend:** React, TypeScript, JavaScript, Redux, React Query, Vue.js and Plotly.
