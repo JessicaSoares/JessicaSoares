@@ -1,42 +1,41 @@
+# Jéssica Silva Soares
 
-![](https://komarev.com/ghpvc/?username=JessicaSoares&color=006bed)
+### Full Stack Developer · React & TypeScript · Python & APIs
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+Computer Engineering graduate based in **Marabá, Brazil**, with web development experience since 2016. My work spans enterprise applications, public-sector data projects and engineering research software.
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formada em **ENGENHARIA DA COMPUTAÇÃO** no <a href="link da sua faculdade">Universidade Federal do Sul e Sudeste do Pará</a>.
-- 💼 &nbsp; Trabalei como **DESENVOLVIMENTO FULL STACK** na <a href="LINK DA EMPRESA">Petrobras</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
+In projects for **Petrobras through FEC**, I worked on React/TypeScript interfaces for well cementing analysis and subsea engineering, contributed to Python/Flask APIs and service/persistence layers, improved data visualization performance, and created and maintained GitHub Actions workflows.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+**Open to remote Frontend and Full Stack opportunities.** English: intermediate (CEFR B1).
 
-**Desenvolvimento web Javascript e Python / Data science**
+[LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194/) · [Projects](https://github.com/JessicaSoares?tab=repositories)
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## Selected projects
 
-**Ferramentas de Desenvolvimento**
+| Project | What to explore | Stack |
+|---|---|---|
+| [Dev Master](https://github.com/JessicaSoares/dev-master) | Career dashboard, API connectors, deduplication, reviewed queues and failure-handling tests | JavaScript, Node.js, localStorage, GitHub Actions |
+| [Data Reconciliation Lab](https://github.com/JessicaSoares/data-reconciliation-lab) | Record-level CSV comparison, exact monetary values, data-quality findings and deterministic reports | Python, Decimal, unittest, Docker, GitHub Actions |
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+Both are personal portfolio projects developed with AI assistance. Their READMEs include runnable examples, architecture decisions, tests and current limitations. Client code and private datasets are not included.
 
-<br/>
+## Experience and technical focus
 
-<a href="https://github.com/JessicaSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSoares&theme=dracula&show_icons=true" />
-</a>
+- **Frontend:** React, TypeScript, JavaScript, Redux, React Query, Vue.js and Plotly.
+- **Backend and data:** Python, Flask, Django, Node.js, REST APIs, PostgreSQL, MySQL and ETL.
+- **Quality and delivery:** automated testing, GitHub Actions, Jenkins, Docker and Git.
+- **Collaboration:** technical team leadership, mentoring junior developers, Scrum and technical writing.
 
-<br/>
+My background also includes the Parauapebas Observatory, logistics software and technical writing for Revelo Brasil. I use AI to support software development and am strengthening the fundamentals needed to explain, validate and maintain what I build.
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+## Research
 
-[![Linkedin: jéssica Silva Soares](https://img.shields.io/badge/-Jéssica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194)](https://www.linkedin.com/in/j%C3%A9ssica-silva-soares-5ba92194/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicassoarez@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicassoarez@gmail.com)](mailto:jessicassoarez@gmail.com)
-[![GitHub JessicaSoares]( https://img.shields.io/github/followers/VanessaSwerts?label=JessicaSoares&style=social)](https://github.com/JessicaSoares)
+Co-author of **Otimização Bioinspirada para Eficiência Energética em Redes Móveis Heterogêneas**, XXXVIII SBrT, 2020 — genetic algorithms and simulation-based evaluation of mobile-network energy efficiency.
+
+[Publication DOI](https://doi.org/10.14209/SBRT.2020.1570648680)
+
+## Em português
+
+Sou engenheira de Computação e desenvolvedora com experiência em aplicações web, APIs e integração de dados. Minha atuação recente combina React/TypeScript, contribuições em Python/Flask, visualizações de dados de engenharia e CI/CD. Tenho trajetória em liderança técnica e orientação de profissionais juniores e busco oportunidades remotas em Frontend e Full Stack.
+
+Os projetos em destaque são pessoais e desenvolvidos com apoio de IA. Cada repositório documenta o que está implementado, como executar, como verificar e o que ainda precisa evoluir.
