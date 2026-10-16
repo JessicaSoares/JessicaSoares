@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-labelledby="title desc">
+<title id="title">Webhook Reliability</title><desc id="desc">Duplicates are a design problem.</desc>
+<rect width="600" height="230" rx="16" fill="#0f1b2d"/><rect x="0" y="18" width="4" height="194" rx="2" fill="#a5b4fc"/>
+<path d="M490 0L600 110M460 0L600 140M430 0L600 170" stroke="#a5b4fc" opacity=".08" stroke-width="22"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="30" y="41" font-size="12" letter-spacing="2" fill="#a5b4fc">02 / BACKEND</text>
+<text x="30" y="96" font-size="32" font-weight="700" letter-spacing="-.7" fill="#f8fafc">Webhook Reliability</text>
+<text x="31" y="133" font-size="18" fill="#b8c8db">Duplicates are a design problem.</text><path d="M30 158H570" stroke="#2a3c53"/>
+<text x="31" y="191" font-size="11" letter-spacing="1.3" fill="#a5b4fc">TYPESCRIPT / HMAC / RETRIES</text><text x="554" y="195" font-size="24" fill="#a5b4fc">↗</text></g></svg>
