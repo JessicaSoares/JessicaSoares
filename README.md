@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formada em **ENGENHARIA DA COMPUTAÇÃO** no <a href="link da sua faculdade">Universidade Federal do Sul e Sudeste do Pará</a>.
-- 💼 &nbsp; Trabalhando como **DESENVOLVIMENTO FRONT END** na <a href="LINK DA EMPRESA">Petrobras</a>
+- 💼 &nbsp; Trabalei como **DESENVOLVIMENTO FULL STACK** na <a href="LINK DA EMPRESA">Petrobras</a>
 - 🌱 &nbsp; Aprendendo mais sobre **JAVASCRIPT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
