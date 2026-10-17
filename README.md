@@ -26,7 +26,7 @@ Each project has a runnable example, tests and documented decisions. Choose an a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/JessicaSoares/ai-evidence-lab"><img src="https://raw.githubusercontent.com/JessicaSoares/JessicaSoares/main/assets/ai-evidence.svg" width="100%" alt="AI Evidence Lab — retrieval, evidence and MCP tools" /></a>
-<p><strong>Applied AI / RAG</strong><br />Python, LangGraph, Qdrant, FastAPI and MCP. Semantic retrieval, bounded role workflow and explicit citation-verification limits.</p>
+<p><strong>Full Stack / Applied AI</strong><br />React/TypeScript, Python, LangGraph, Qdrant and MCP. Real local LLM, source navigation and recorded generation/failure experiments.</p>
 <a href="https://github.com/JessicaSoares/ai-evidence-lab#quick-start">Run it</a> · <a href="https://github.com/JessicaSoares/ai-evidence-lab/blob/main/docs/ARCHITECTURE.md">Design decisions</a> · <a href="https://github.com/JessicaSoares/ai-evidence-lab/actions">CI</a>
 </td>
 <td width="50%" valign="top">
